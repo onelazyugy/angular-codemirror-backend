@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: mysql
+  #  pass in via vm options
+  #  datasource:
+  #    username:
+  #    password:
+  #    url:
+origin: http://localhost:4200
